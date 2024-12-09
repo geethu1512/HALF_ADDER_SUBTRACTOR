@@ -1,4 +1,4 @@
-### Name : GEETHU.R
+### Name : GEETHU R
 ### Reference No : 24006425
 # EXPERIMENT NO 3: HALF ADDER SUBTRACTOR
 
