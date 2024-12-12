@@ -7,7 +7,7 @@
 
 To design a half adder and half subtractor circuit and verify its truth table in Quartus using Verilog programming.
 
-**Equipments Required:**
+**EQUIPMENTS REQUIRED:**
 
 Hardware – PCs, Cyclone II , USB flasher 
 
@@ -34,11 +34,11 @@ Borrow = A’B
 
 Figure -02 HALF Subtractor
 
-**Truthtable :**
+**TRUTH TABLE :**
 
 ![WhatsApp Image 2024-11-14 at 14 02 06_a4ec18e7](https://github.com/user-attachments/assets/e47b4e4f-1312-4da2-909c-ba864ffb6389)
 
-**Procedure :**
+**PROCEDURE :**
 
 1.	Type the program in Quartus software.
 
@@ -51,20 +51,20 @@ Figure -02 HALF Subtractor
 5.	For different input combinations generate the timing diagram.
 
 
-**Program:**
+**PROGRAM:**
 
 ![WhatsApp Image 2024-11-14 at 13 54 07_9e6cb7c7](https://github.com/user-attachments/assets/d2459bb1-cb99-48d7-be81-b4c108ee45d9)
 
 
-**RTL Schematic :**
+**RTL SCHEMATIC :**
 
 ![WhatsApp Image 2024-11-14 at 13 54 07_8c189040](https://github.com/user-attachments/assets/14dbe29d-bce9-4248-8576-b3a79d3186f2)
 
-**Output/TIMING Waveform**
+**OUTPUT/TIMING WAVEFORM**
 
 ![WhatsApp Image 2024-11-14 at 13 54 07_2f9f904d](https://github.com/user-attachments/assets/a7acaed1-a8e2-4370-8a7d-e4e392250944)
 
 
-**Result:**
+**RESULT:**
 
 Designed a half adder and half subtractor circuit and verified its truth table in Quartus using Verilog programming.
